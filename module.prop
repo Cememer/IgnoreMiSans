@@ -1,0 +1,6 @@
+id=Ignore-MiSans
+name=Ignore Mi Sans
+version=v1
+versionCode=1
+author=Cememer
+description="Mi Sans"フォントを、"Noto Sans (Regular)"に置き換えるモジュール。
